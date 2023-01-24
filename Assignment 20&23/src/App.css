@@ -1,0 +1,12 @@
+.App {
+  border: 2px solid black;
+  width: 40%;
+  margin: auto;
+  padding: 2rem;
+}
+.show-grid .row>.col{
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+  background-color: #bbeffd;
+  border: 1px solid #61dafb;
+}
